@@ -1,0 +1,25 @@
+{
+  "name": "lambda-dojo",
+  "version": "1.0.0",
+  "description": "Some experiments and practices on functional patterns and wizardry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PygmalionPolymorph/lambda-dojo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PygmalionPolymorph/lambda-dojo/issues"
+  },
+  "homepage": "https://github.com/PygmalionPolymorph/lambda-dojo#readme",
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
